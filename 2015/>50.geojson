@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "22071", "name": "Orleans", "county_name": "Orleans", "fips": "22071", "n_injured": "40-50", "n_killed": "20-30", "n_total": ">50", "state": "Louisiana", "year": 2015 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -89.900597, 30.192426 ], [ -89.62675, 30.14861 ], [ -89.856781, 30.00621 ], [ -89.862258, 30.000733 ], [ -89.911551, 29.869286 ], [ -89.988228, 29.907625 ], [ -90.010136, 29.896671 ], [ -90.103244, 30.192426 ], [ -89.900597, 30.192426 ] ] ] } },
+{ "type": "Feature", "properties": { "id": "24510", "name": "Baltimore", "county_name": "Baltimore City", "fips": "24510", "n_injured": "40-50", "n_killed": "10-20", "n_total": ">50", "state": "Maryland", "year": 2015 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -76.651878, 39.371778 ], [ -76.525908, 39.218424 ], [ -76.531385, 39.20747 ], [ -76.619016, 39.234854 ], [ -76.619016, 39.234854 ], [ -76.651878, 39.371778 ] ] ] } }
+]
+}
